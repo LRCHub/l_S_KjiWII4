@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "さらばシベリア鉄道",
+  "base_artist": "大滝　詠一",
+  "createdAt": "2026-02-14T20:22:02.783549Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さらばシベリア鉄道",
+      "artist": "大滝 詠一",
+      "has_synced": true,
+      "path": "select/01_さらばシベリア鉄道_大滝_詠一.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "さらばシベリア鉄道",
+      "artist": "大滝詠一",
+      "has_synced": true,
+      "path": "select/02_さらばシベリア鉄道_大滝詠一.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "さらばシベリア鉄道",
+      "artist": "Eiichi Ohtaki",
+      "has_synced": true,
+      "path": "select/03_さらばシベリア鉄道_Eiichi_Ohtaki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "さらばシベリア鉄道",
+      "artist": "Eichii Ohtaki",
+      "has_synced": true,
+      "path": "select/04_さらばシベリア鉄道_Eichii_Ohtaki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さらばシベリア鉄道",
+      "artist": "大滝 詠一",
+      "has_synced": false,
+      "path": "select/pl_01_さらばシベリア鉄道_大滝_詠一.txt"
+    }
+  ]
+}
